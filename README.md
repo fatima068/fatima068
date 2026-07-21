@@ -1,5 +1,4 @@
-![Your Top Langs](https://vercel.app)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima068&layout=compact)
 <!--
 **fatima068/fatima068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
